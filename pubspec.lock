@@ -497,7 +497,7 @@ packages:
       sha256: "0379309f4b36ea6b2af042fb8cfd045e611a929758b18b7382a066d65d1e6bbb"
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.13"
+    version: "1.0.14"
   mime:
     dependency: "direct main"
     description:
